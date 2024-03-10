@@ -1,4 +1,4 @@
-# flutter_application_2
+# flutter_snackbar
 
 A new Flutter project.
 
